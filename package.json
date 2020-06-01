@@ -38,9 +38,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/bitgreen/insight-api/issues"
+    "url": "https://github.com/PitTxid/insight-api/issues"
   },
-  "homepage": "https://github.com/bitgreen/insight-api",
+  "homepage": "https://github.com/PitTxid/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -61,7 +61,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "async": "^2.6.2",
-    "bitgreen-lib": "git+https://github.com/bitgreen/bitgreen-lib.git",
+    "bitgreen-lib": "git+https://github.com/PitTxid/bitgreen-lib.git",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "lodash": "^4.17.11",
