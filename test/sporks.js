@@ -21,7 +21,7 @@ describe('Spork', function () {
 		};
 		var node = {
 			services: {
-        dashd: {
+        bitgreend: {
 					getSpork: sinon.stub().callsArgWith(0, null, SporkList)
 				}
 			}
